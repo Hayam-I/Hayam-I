@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hayam-I
-- 💞️ I’m looking to collaborate on an html website
-- 📫 How to reach me email: hayam.itani@outlook.com or discord: hayam #2630
+- 📫 How to reach me email: hayam.itani@outlook.com
 
 <!---
 Hayam-I/Hayam-I is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
